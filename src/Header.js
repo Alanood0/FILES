@@ -1,5 +1,5 @@
 import React from 'react';
-import { link } from "react-router-dom"
+import { Link } from "react-router-dom"
 import Aboutus from './Aboutus';
 import Home from './Home';
 function Header(){
